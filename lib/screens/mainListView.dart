@@ -10,6 +10,9 @@ Widget createCard(timeBloc bloc, DateTime viewDate, int day){
   var colr = (code.substring(0,1) == 'A')? Colors.green : Colors.redAccent;
 
   return Card(
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(15.0),
+      ),
       elevation: 8.0,
       margin: new EdgeInsets.symmetric(horizontal: 10.0, vertical: 6.0),
       child: Container(
