@@ -14,3 +14,4 @@ The Pi has a default installation of Apache running on it. Using port forwarding
 ## Mobile App
 Using the Flutter framework, I developed an cross platform app that allows users to create, delete and modify events, as well as turning on and off the system.
 
+![Creating an event]()
