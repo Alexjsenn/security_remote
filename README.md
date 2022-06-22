@@ -16,12 +16,12 @@ Using the Flutter framework, I developed an cross platform app that allows users
 
 **Creating an event**
                                             
-![Creating an event](/screenshots/create-event.png)
+<img src="/screenshots/create-event.png" width=30% height=30%>
 
 **Viewing events**    
-                                          
-![View events](/screenshots/view-events.png)
+ 
+ <img src="/screenshots/view-events.png" width=30% height=30%>
 
 **Deleting events with long press on card**
                                             
-![Delete events](/screenshots/delete-events.png)
+<img src="/screenshots/delete-events.png" width=30% height=30%>                                         
